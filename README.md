@@ -2,6 +2,10 @@
 
 The code performs various analyses on the sales data, including:
 
+## About Data
+The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+
+ 
 ## Data Exploration:
 
 Identifies the unique values in specific columns (city, product line, customer type, payment method).
